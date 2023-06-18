@@ -12,7 +12,9 @@ _Use ```pip install -r server/requirements.txt``` to auto install_
 ## Client  
   
 C++ 17+, currently only run on x86 (Win32) only build config due to dependency management.  
+  
 Used Visual Studio 2022, dependencies explanation will be adjusted to it.  
+  
 It depends on:  
 - [Boost](https://www.boost.org/) - asio  
 - [CryptoPP](https://github.com/weidai11/cryptopp)
