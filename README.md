@@ -3,7 +3,7 @@ Defensive programming project that involves both server and client software for 
   
 ## Server  
   
-Python (3.8 or higher, written with 3.10)  
+Python (written with 3.10.8)  
   
 It depends on PyCryptoDome.  
   
