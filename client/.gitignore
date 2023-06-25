@@ -1,0 +1,8 @@
+# Ignore specific files
+
+
+# Ignore specific directories
+Debug/
+x64/
+packages/
+.vs/

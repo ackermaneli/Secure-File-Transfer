@@ -1,0 +1,13 @@
+# Ignore specific files
+client.sln
+client.vcxproj
+client.vcxproj.filters
+client.vcxproj.user
+packages.config
+me.info
+
+# Ignore specific directories
+Debug/
+x64/
+.vs/
+client/
